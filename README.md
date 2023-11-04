@@ -1,4 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=Welcomewrle&show_icons=true&theme=transparent)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welcomewrl)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Welcomewrl/count.svg)
